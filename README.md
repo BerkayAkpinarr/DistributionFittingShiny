@@ -1,7 +1,5 @@
 # DistributionFittingShiny
-Distribution fitting for hydrology, run with the following code:
-
-runGitHub(repo = "DistributionFittingShiny",username = "BerkayAkpinarr", ref ="main")
+Distribution fitting for hydrology, also can be run via  https://rm8lgi-berkay-akp0nar.shinyapps.io/FittingApp/
 
 Data should have the following columns (as .txt,.csv.xlsx)
 
